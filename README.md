@@ -28,4 +28,5 @@ _printf is a custom implementation of the C programming function printf. This pr
 ## Contributors
 
 > Joy Kirii | joykirii@gmail.com
+
 > Stephen Karanja
